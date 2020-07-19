@@ -25,7 +25,8 @@
 <a href="https://www.buymeacoffee.com/Jatin">
   <img align="left" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" />
 </a>
-<br />
+
+&nbsp;
 
 A Passionate Full Stack Web developer ⚡ and a Engineering Undergrad in VJTI 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Blockchain 💻,  DevOps 🚀, Open Source 📜,  Innovation and Automation 🤖
 
