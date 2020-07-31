@@ -28,13 +28,13 @@
 
 &nbsp;
 
-A Passionate Full Stack Web developer ⚡ and a Engineering Undergrad in VJTI 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Blockchain 💻,  DevOps 🚀, Open Source 📜,  Innovation and Automation 🤖
+A Passionate Full Stack Developer ⚡ and a Engineering Undergrad in VJTI 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Blockchain,  DevOps, Open Source 📜, Innovation and Automation 🤖
 
-- 🔭 I’m currently working on my [Youtube Channel](https://www.youtube.com/channel/UCC4vwxeLB7id80azkciD8DQ?view_as=public) ❤️
-- 🌱 I’m currently learning **Flutter** 📱
-- 👯 I’m looking to collaborate on Web Development Projects ✨
-- 💬 Ask me about anything I'm happy to help ✔️
-- 🎯 Life Hack -  Explore 🔥 and Explode 💣 with knowledge
+- 🔭 I’m currently working on my [Youtube Channel](https://www.youtube.com/channel/UCC4vwxeLB7id80azkciD8DQ?view_as=public)
+- 🌱 I’m currently learning **Flutter** 
+- 👯 I’m looking to collaborate on Web Dev Projects 
+- 💬 Ask me about anything I'm happy to help 
+- 🎯 Life Hack -  Explore and Explode with knowledge
 - 📫 How to reach me **varlyanijatin88@gmail.com** 
 - 📝 Writing articles on [Medium](https://medium.com/@Jatin_8898) and solving bugs on [StackOverflow](https://stackoverflow.com/users/story/9360755)
 
