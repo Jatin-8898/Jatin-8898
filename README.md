@@ -28,7 +28,7 @@
 
 &nbsp;
 
-A Passionate Full Stack Developer ⚡ and a Engineering Undergrad in VJTI 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Blockchain,  DevOps, Open Source 📜, Innovation and Automation 🤖
+A Passionate Full Stack Developer ⚡ and an Engineering Gradudate from VJTI 🎓. I love building cool stuffs and exploring new technologies. Interested in Cloud computing ☁️, Blockchain,  DevOps, Open Source 📜, Innovation and Automation 🤖
 
 <!-- - 🔭 I’m currently working on my [Youtube Channel](https://www.youtube.com/channel/UCC4vwxeLB7id80azkciD8DQ?view_as=public) -->
 - 🌱 I’m currently learning **Flutter & Andriod** 
@@ -55,8 +55,6 @@ A Passionate Full Stack Developer ⚡ and a Engineering Undergrad in VJTI 🎓. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-
-
 
 
 ![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin-8898&show_icons=true&theme=dracula)
